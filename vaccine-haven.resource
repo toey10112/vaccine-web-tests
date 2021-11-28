@@ -7,7 +7,7 @@ Library          DateTime
 ${BASE_URL}    https://vaccine-haven.herokuapp.com/
 ${REGISTER_URL}    https://vaccine-haven.herokuapp.com/registration
 ${BROWSER}      gc
-${CITIZEN_ID}      9621054563804
+${CITIZEN_ID}      9621054563771
 ${FIRST_NAME}      Suchon 
 ${LAST_NAME}       Prasert
 ${BIRTH_DATE}      09152000
