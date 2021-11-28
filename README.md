@@ -6,7 +6,7 @@ pip install -r requirements.txt
 
 ### How to run the tests
 ```
-robot vaccine-tests.robot
+python -m robot test.robot
 ```
 ## E2E Tests with Robot Framework
 App to Test: Service Taker - [Vaccine Haven](https://vaccine-haven.herokuapp.com/)
